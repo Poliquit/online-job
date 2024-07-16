@@ -4,7 +4,7 @@ function Search() {
   return (
     <>
       <div className="container mx-auto flex justify-center mt-5">
-        <div className="bg-white filter drop-shadow-xl border-1 border-blue-200">
+        <div className="bg-white filter drop-shadow-xl border-1- border-blue-200">
           <div className="flex items-center">
             <input
               type="text"
